@@ -23,9 +23,8 @@ It automatically sets up a Docker-based environment with all required Solana too
 
 ## 🧱 Folder Structure
 
-.devcontainer/
-├── devcontainer.json
-└── Dockerfile
+```bash 
+.devcontainer needs to be in the project root
 
 
 ---
