@@ -1,6 +1,3 @@
-# Solana-Docker-Devcontainer-Setup
-Easy copy paste Dockersetup + devcontainer vor VSCode to develop, test and deploy in a secure environment
-
 # 🪄 Solana DevContainer Setup
 
 This repository provides a ready-to-use **DevContainer configuration** for Solana development in **VS Code** (or GitHub Codespaces).  
