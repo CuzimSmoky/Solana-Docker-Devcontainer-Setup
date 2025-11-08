@@ -25,7 +25,7 @@ It automatically sets up a Docker-based environment with all required Solana too
 
 ```bash 
 .devcontainer needs to be in the project root
-
+```
 
 ---
 
@@ -35,13 +35,15 @@ It automatically sets up a Docker-based environment with all required Solana too
    ```bash
    git clone https://github.com/<USERNAME>/Solana-Docker-Devcontainer-Setup.git
    cd Solana-Docker-Devcontainer-Setup
+   ```
 2. Open the folder in VS Code
    (File → Open Folder… or code . in your terminal)
 
 3. When prompted by VS Code:
+```bash
     "Folder contains a Dev Container configuration. Reopen in Container?"
     → ✅ Click “Reopen in Container”
-
+```
 4. Wait until the container finishes building (only needed the first time).
    Once done, your Solana development environment will be ready with:
 
@@ -56,6 +58,9 @@ anchor-cli
 🧩 Example Commands Inside the Container
 
 Once inside the container, you can run:
+```bash
 solana --version
 anchor --version
 solana-test-validator
+```
+If you have any Questions feel free to to add me on Discord: 0x6vb
